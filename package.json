@@ -1,0 +1,9 @@
+{
+  "name": "self-driving-car-ml-nn",
+  "version": "1.0.0",
+  "description": "Self-Driving Car Neural Networks and Machine Learning with JavaScript",
+  "main": "main.js",
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  }
+}
